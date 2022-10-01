@@ -1,0 +1,13 @@
+body{
+background-image:url(background.jpg);
+background-size: cover;
+color:white;
+font-size: 20px;
+}
+canvas{
+    border-color: white;
+    border-radius: 25px;
+}
+h3{
+    font-size: 25px;
+}
